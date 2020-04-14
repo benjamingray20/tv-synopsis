@@ -1,0 +1,27 @@
+td{
+  border: 2px solid #000;
+  padding: 10px;
+}
+th {
+  border: 1px solid #000;
+  background-color: #6495ed;
+  text-align: center;
+  color: #ffffff;
+  padding: 8px;
+}
+table {
+   border-collapse: collapse ;
+   width: 85%;
+   margin: 0 auto;
+}
+h2 {
+  text-align: center;
+}
+div.main {
+  font-size: 25px;
+  font-weight: bold;
+  padding: 20px;
+}
+li.sub{
+  text-indent: 3%;
+}
